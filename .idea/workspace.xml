@@ -5,8 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5af5c78-182f-451b-9877-abcfef647c71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config-data/registry-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/src/main/java/academy/digitallab/store/registry/RegistryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry-service/src/test/java/academy/digitallab/store/registry/RegistryServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/customer-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/customer-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/product-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/product-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/shopping-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/shopping-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/ProductServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/ShoppingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/ShoppingServiceApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +50,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/product-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/registry-service">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/shopping-service">
@@ -46,33 +75,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2fOO4KFk41b4mCUY118Q88Wo8Tv" />
+  <component name="ProjectId" id="2fPivYjMjWV8WrSQWnqmyO9wfjd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Upgrade Gradle wrapper.executor": "Run",
-    "Gradle.config-service [:ConfigServiceApplication.main()].executor": "Run",
-    "Gradle.customer-service [:CustomerServiceApplication.main()].executor": "Run",
-    "Gradle.product-service [:ProductServiceApplication.main()].executor": "Run",
-    "Gradle.shopping-service [:ShoppingServiceApplication.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "02-config",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.Upgrade Gradle wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.config-service [:ConfigServiceApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.customer-service [:CustomerServiceApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.product-service [:ProductServiceApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.registry-service [:RegistryServiceApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.shopping-service [:ShoppingServiceApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;03-eureka-server&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ShoppingServiceApplication">
+}</component>
+  <component name="RunManager" selected="Application.CustomerServiceApplication">
     <configuration name="ConfigServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="GIT_USER" value="hipolito.guerrero@gmail.com" />
-        <env name="GIT_PASSWORD" value="123" />
-      </envs>
       <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.config.ConfigServiceApplication" />
       <module name="config-service.main" />
       <extension name="coverage">
@@ -111,6 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegistryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.registry.RegistryServiceApplication" />
+      <module name="registry-service.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.digitallab.store.registry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShoppingServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.shopping.ShoppingServiceApplication" />
       <module name="shopping-service.main" />
@@ -129,6 +172,7 @@
         <item itemvalue="Application.ShoppingServiceApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.CustomerServiceApplication" />
+        <item itemvalue="Application.RegistryServiceApplication" />
         <item itemvalue="Application.ConfigServiceApplication" />
       </list>
     </recent_temporary>
@@ -136,12 +180,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5af5c78-182f-451b-9877-abcfef647c71" name="Changes" comment="" />
-      <created>1713668464480</created>
+      <changelist id="d89fb8f4-045f-41e0-bf18-f0e6f20ebc8d" name="Changes" comment="" />
+      <created>1713709346157</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713668464480</updated>
+      <updated>1713709346157</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

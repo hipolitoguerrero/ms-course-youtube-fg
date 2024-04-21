@@ -4,16 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d2fc11-0567-48dd-8b10-3eef78a87d06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="d5af5c78-182f-451b-9877-abcfef647c71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/src/main/java/academy/digitallab/store/config/ConfigServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-service/src/test/java/academy/digitallab/store/config/ConfigServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-service/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/customer-service.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ms-course-youtube.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/customer-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/product-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/shopping-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +39,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/config-service">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/customer-service">
       <ProjectState />
     </projectState>
@@ -49,28 +70,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
-  <component name="ProjectId" id="2fON8x3qEA31aXyCl9cYYfOtys2" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fOO4KFk41b4mCUY118Q88Wo8Tv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Gradle.config-service [:ConfigServiceApplication.main()].executor": "Run",
+    "Gradle.customer-service [:CustomerServiceApplication.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "01-REST",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "02-config",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.product.ProductServiceApplication" />
-      <module name="product-service.main" />
+  <component name="RunManager" selected="Application.CustomerServiceApplication">
+    <configuration name="ConfigServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="GIT_USER" value="hipolito.guerrero@gmail.com" />
+        <env name="GIT_PASSWORD" value="123" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.config.ConfigServiceApplication" />
+      <module name="config-service.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.digitallab.store.product.*" />
+          <option name="PATTERN" value="academy.digitallab.store.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.customer.CustomerServiceApplication" />
+      <module name="customer-service.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.digitallab.store.customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,18 +123,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.CustomerServiceApplication" />
+        <item itemvalue="Application.ConfigServiceApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93d2fc11-0567-48dd-8b10-3eef78a87d06" name="Changes" comment="" />
-      <created>1713668009062</created>
+      <changelist id="d5af5c78-182f-451b-9877-abcfef647c71" name="Changes" comment="" />
+      <created>1713668464480</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713668009062</updated>
+      <updated>1713668464480</updated>
     </task>
     <servers />
   </component>

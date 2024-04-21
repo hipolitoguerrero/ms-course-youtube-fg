@@ -5,96 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11c10e43-2fcb-497d-ba2e-357ccd34fb98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/customer-service.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ms-course-youtube.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/CustomerServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/controller/CustomerRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/controller/CustomerRest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/controller/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/controller/ErrorMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/repository/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/academy/digitallab/store/customer/service/CustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/test/java/academy/digitallab/store/customer/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/test/java/academy/digitallab/store/customer/CustomerServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/src/main/java/academy/digitallab/demo01/Demo01Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/src/main/java/academy/digitallab/demo01/Demo01Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/src/main/java/academy/digitallab/demo01/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/src/main/java/academy/digitallab/demo01/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/src/main/java/academy/digitallab/demo01/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/src/main/java/academy/digitallab/demo01/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/src/test/java/academy/digitallab/demo01/Demo01ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/src/test/java/academy/digitallab/demo01/Demo01ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/ProductServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/controller/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/controller/ErrorMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/entity/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/repository/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/academy/digitallab/store/product/service/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ProductRepositoryMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ProductRepositoryMockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ProductServiceMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ProductServiceMockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ServiceProductApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/academy/digitallab/store/product/ServiceProductApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/ShoppingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/ShoppingServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/controller/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/controller/ErrorMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/controller/InvoiceRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/controller/InvoiceRest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/InvoiceItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/entity/InvoiceItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/repository/InvoiceItemsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/repository/InvoiceItemsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/repository/InvoiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/repository/InvoiceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/academy/digitallab/store/shopping/service/InvoiceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/test/java/academy/digitallab/store/shopping/ShoppingServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/test/java/academy/digitallab/store/shopping/ShoppingServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,19 +68,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.customer-service [:CustomerServiceApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;01-REST&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/workspace/ms-course-youtube&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Tests in 'shopping-service'.executor": "Run",
+    "Gradle.customer-service [:CustomerServiceApplication.main()].executor": "Run",
+    "Gradle.shopping-service [:ShoppingServiceApplication.main()].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "01-REST",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/workspace/ms-course-youtube"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.ShoppingServiceApplication">
     <configuration name="CustomerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.customer.CustomerServiceApplication" />
       <module name="customer-service.main" />
@@ -183,8 +100,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShoppingServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.digitallab.store.shopping.ShoppingServiceApplication" />
+      <module name="shopping-service.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.digitallab.store.shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in 'shopping-service'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shopping-service" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShoppingServiceApplication" />
+        <item itemvalue="Gradle.Tests in 'shopping-service'" />
         <item itemvalue="Application.CustomerServiceApplication" />
       </list>
     </recent_temporary>
